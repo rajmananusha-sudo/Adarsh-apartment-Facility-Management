@@ -1,0 +1,210 @@
+{
+  "A_Wing": {
+    "A1": {
+      "bhk": 3,
+      "maintenance": 2600,
+      "tank_capacity": 1000
+    },
+    "A2": {
+      "bhk": 3,
+      "maintenance": 2600,
+      "tank_capacity": 1000
+    },
+    "A3": {
+      "bhk": 3,
+      "maintenance": 1950,
+      "tank_capacity": 750
+    },
+    "A4": {
+      "bhk": 3,
+      "maintenance": 2600,
+      "tank_capacity": 1000
+    },
+    "A5": {
+      "bhk": 3,
+      "maintenance": 2600,
+      "tank_capacity": 1000
+    },
+    "A6": {
+      "bhk": 3,
+      "maintenance": 1950,
+      "tank_capacity": 750
+    },
+    "A7": {
+      "bhk": 3,
+      "maintenance": 2600,
+      "tank_capacity": 1000
+    },
+    "A8": {
+      "bhk": 3,
+      "maintenance": 2600,
+      "tank_capacity": 1000
+    },
+    "A9": {
+      "bhk": 3,
+      "maintenance": 1950,
+      "tank_capacity": 750
+    },
+    "A10": {
+      "bhk": 3,
+      "maintenance": 2600,
+      "tank_capacity": 1000
+    },
+    "A11": {
+      "bhk": 3,
+      "maintenance": 2600,
+      "tank_capacity": 1000
+    },
+    "A12": {
+      "bhk": 3,
+      "maintenance": 1950,
+      "tank_capacity": 750
+    }
+  },
+  "B_Wing": {
+    "B1": {
+      "bhk": 2,
+      "maintenance": 1950,
+      "tank_capacity": 750
+    },
+    "B2": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "B3": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "B4": {
+      "bhk": 2,
+      "maintenance": 1950,
+      "tank_capacity": 750
+    },
+    "B5": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "B6": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "B7": {
+      "bhk": 2,
+      "maintenance": 1950,
+      "tank_capacity": 750
+    },
+    "B8": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "B9": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "B10": {
+      "bhk": 2,
+      "maintenance": 1950,
+      "tank_capacity": 750
+    },
+    "B11": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "B12": {
+      "bhk": 2,
+      "maintenance": 1950,
+      "tank_capacity": 750
+    },
+    "B13": {
+      "bhk": 2,
+      "maintenance": 1950,
+      "tank_capacity": 750
+    },
+    "B14": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "B15": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    }
+  },
+  "C_Wing": {
+    "C1": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "C2": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "C3": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "C4": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "C5": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "C6": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "C7": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "C8": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "C9": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "C10": {
+      "bhk": 1,
+      "maintenance": 1300,
+      "tank_capacity": 500
+    }
+  },
+  "Ground_Floor": {
+    "G1": {
+      "bhk": 3,
+      "maintenance": 2600,
+      "tank_capacity": 1000
+    },
+    "G2": {
+      "bhk": "Studio",
+      "maintenance": 1300,
+      "tank_capacity": 500
+    },
+    "G4": {
+      "bhk": "Shop",
+      "maintenance": 650,
+      "tank_capacity": 0
+    }
+  }
+}
